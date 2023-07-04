@@ -1,4 +1,5 @@
 - Book Store be with Springboot
 - Use:
     - DB: MySQL
+    - Spring security: JWT
     - Checkout: PaypalAPI
